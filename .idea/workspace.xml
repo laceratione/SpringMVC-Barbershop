@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2c803f1-011c-42de-bf47-dde6a8bad903" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/mvc/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/mvc/entity/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/mvc/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/mvc/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/new_note.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/new_note.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/registration.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/registration.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/config/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/mvc/entity/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/mvc/entity/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/mvc/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/mvc/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/admin_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/admin_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/edit_005fnote_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/edit_005fnote_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/login_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/new_005fnote_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/new_005fnote_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/registration_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/registration_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/search_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/search_jsp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1645869801307</updated>
     </task>
+    <task id="LOCAL-00001" summary="Удаление класса lmp">
+      <created>1646929604337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646929604338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Удаление класса lmp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Удаление класса lmp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="28" width="1092" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645888918748">
@@ -132,10 +126,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1646071896503" />
-    <state x="282" y="11" width="845" height="711" key="CommitChangelistDialog2" timestamp="1646928513642">
+    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2" timestamp="1646929601351">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="282" y="11" width="845" height="711" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1646928513642" />
+    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1646929601351" />
     <state width="439" height="466" key="DebuggerActiveHint" timestamp="1646242295850">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -180,6 +174,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1646911925044" />
+    <state x="494" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646929646574">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="494" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1646929646574" />
     <state x="262" y="121" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1645888561814">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
