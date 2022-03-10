@@ -15,18 +15,15 @@ public class Client {
     private String dateVisit;
     private String phone;
     private String serviceType;
-    //private boolean paid = false;
 
     public Client() {
     }
 
-    protected Client(String name, String dateVisit, String phone, String serviceType
-                     /*boolean paid*/){
+    protected Client(String name, String dateVisit, String phone, String serviceType){
         this.name = name;
         this.dateVisit = dateVisit;
         this.phone = phone;
         this.serviceType = serviceType;
-        //this.paid = paid;
     }
 
     public int getId() {
@@ -69,12 +66,5 @@ public class Client {
         this.serviceType = serviceType;
     }
 
-//    public boolean getPaid() {
-//        return paid;
-//    }
-
-//    public void setPaid(boolean paid) {
-//        this.paid = paid;
-//    }
 }
 

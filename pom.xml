@@ -85,7 +85,6 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <!--<version>6.0.0.Beta3</version> --> <!--5.6.5.Final -->
       <version>5.6.5.Final</version>
     </dependency>
 
@@ -121,7 +120,6 @@
       <artifactId>validation-api</artifactId>
       <version>2.0.1.Final</version>
     </dependency>
-
 
   </dependencies>
 

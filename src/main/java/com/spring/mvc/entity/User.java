@@ -1,10 +1,8 @@
 package com.spring.mvc.entity;
 
-import com.spring.mvc.entity.Role;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-//import javax.management.relation.Role;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.*;
