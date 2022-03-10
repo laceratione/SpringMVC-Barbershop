@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2c803f1-011c-42de-bf47-dde6a8bad903" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringMVCBarbershop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25dvVWAa7hQXbRbQSQ2mqMj0H0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\SpringMVCBarbershop\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+      <command value="mvn jetty:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringMVCBarbershop [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="mvn jetty:run" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c803f1-011c-42de-bf47-dde6a8bad903" name="Default Changelist" comment="" />
+      <created>1645869801307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645869801307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="28" width="1092" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645888918748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="72" y="28" width="1092" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1645888918748" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1646071896503">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1646071896503" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1646242295850">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1646242295850" />
+    <state width="1322" height="175" key="GridCell.Tab.0.bottom" timestamp="1646918328440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1646918328440" />
+    <state width="1322" height="175" key="GridCell.Tab.0.center" timestamp="1646918328440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1646918328440" />
+    <state width="1322" height="175" key="GridCell.Tab.0.left" timestamp="1646918328440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1646918328440" />
+    <state width="1322" height="175" key="GridCell.Tab.0.right" timestamp="1646918328440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1646918328440" />
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom" timestamp="1646912394745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1646912394745" />
+    <state width="1322" height="172" key="GridCell.Tab.1.center" timestamp="1646912394745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1646912394745" />
+    <state width="1322" height="172" key="GridCell.Tab.1.left" timestamp="1646912394744">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1646912394744" />
+    <state width="1322" height="172" key="GridCell.Tab.1.right" timestamp="1646912394745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1646912394745" />
+    <state x="213" y="40" key="Maven.ArtifactSearchDialog" timestamp="1646067774586">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="40" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1646067774586" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1646911925044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1646911925044" />
+    <state x="262" y="121" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1645888561814">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="121" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1645888561814" />
+    <state x="390" y="145" width="585" height="478" key="find.popup" timestamp="1645888660622">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="145" width="585" height="478" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1645888660622" />
+    <state x="355" y="154" width="672" height="677" key="run.anything.popup" timestamp="1646750987460">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="355" y="154" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1646750987460" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1646911597596">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1646911597596" />
+  </component>
+</project>
