@@ -7,6 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 </head>
 <body>
+
 <div align="center">
     <h2>Application management</h2>
     <form method="get" action="search">
@@ -14,10 +15,11 @@
         <input type="submit" value="Search" class="button"/>
         <a href="/newNote" class="button">New note</a>
         <a href="/" class="button">Home page</a>
-     </form>
+    </form>
 
     <div class="container">
     <table border="1" cellpadding="5">
+
         <tr>
             <th>ID</th>
             <th>Name</th>

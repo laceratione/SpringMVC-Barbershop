@@ -1,6 +1,8 @@
 com\spring\mvc\repository\RoleRepository.class
 com\spring\mvc\entity\Role.class
+com\spring\mvc\entity\UserTmp.class
 com\spring\mvc\entity\User.class
+com\spring\mvc\controller\MobileController.class
 com\spring\config\WebAppInitializer.class
 com\spring\config\WebConfig.class
 com\spring\mvc\controller\RegistrationController.class

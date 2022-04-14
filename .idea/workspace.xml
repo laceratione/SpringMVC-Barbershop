@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2c803f1-011c-42de-bf47-dde6a8bad903" name="Default Changelist" comment="">
+    <list default="true" id="f2c803f1-011c-42de-bf47-dde6a8bad903" name="Default Changelist" comment="Удаление класса lmp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/mvc/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/mvc/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/all_notes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/all_notes.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/table_notes.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/table_notes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/mvc/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/mvc/controller/RegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/admin_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/admin_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/all_005fnotes_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/edit_005fnote_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/edit_005fnote_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/new_005fnote_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/new_005fnote_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/registration_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/registration_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/search_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/search_jsp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,54 +151,54 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1646071896503" />
-    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2" timestamp="1646929601351">
+    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2" timestamp="1649922475935">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1646929601351" />
-    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1646242295850">
+    <state x="321" y="16" width="845" height="711" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1649922475935" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1648030620703">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="439" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1646242295850" />
-    <state width="1322" height="158" key="GridCell.Tab.0.bottom" timestamp="1646928515530">
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1648030620703" />
+    <state width="1322" height="246" key="GridCell.Tab.0.bottom" timestamp="1648546156978">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="158" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1646928515530" />
-    <state width="1322" height="158" key="GridCell.Tab.0.center" timestamp="1646928515530">
+    <state width="1322" height="246" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1648546156978" />
+    <state width="1322" height="246" key="GridCell.Tab.0.center" timestamp="1648546156978">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="158" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1646928515530" />
-    <state width="1322" height="158" key="GridCell.Tab.0.left" timestamp="1646928515530">
+    <state width="1322" height="246" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1648546156978" />
+    <state width="1322" height="246" key="GridCell.Tab.0.left" timestamp="1648546156978">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="158" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1646928515530" />
-    <state width="1322" height="158" key="GridCell.Tab.0.right" timestamp="1646928515530">
+    <state width="1322" height="246" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1648546156978" />
+    <state width="1322" height="246" key="GridCell.Tab.0.right" timestamp="1648546156978">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="158" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1646928515530" />
-    <state width="1322" height="172" key="GridCell.Tab.1.bottom" timestamp="1646928515524">
+    <state width="1322" height="246" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1648546156978" />
+    <state width="1322" height="283" key="GridCell.Tab.1.bottom" timestamp="1648405824198">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1646928515524" />
-    <state width="1322" height="172" key="GridCell.Tab.1.center" timestamp="1646928515524">
+    <state width="1322" height="283" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1648405824198" />
+    <state width="1322" height="283" key="GridCell.Tab.1.center" timestamp="1648405824197">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1646928515524" />
-    <state width="1322" height="172" key="GridCell.Tab.1.left" timestamp="1646928515524">
+    <state width="1322" height="283" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1648405824197" />
+    <state width="1322" height="283" key="GridCell.Tab.1.left" timestamp="1648405824197">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1646928515524" />
-    <state width="1322" height="172" key="GridCell.Tab.1.right" timestamp="1646928515524">
+    <state width="1322" height="283" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1648405824197" />
+    <state width="1322" height="283" key="GridCell.Tab.1.right" timestamp="1648405824197">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1646928515524" />
+    <state width="1322" height="283" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1648405824197" />
     <state x="213" y="40" key="Maven.ArtifactSearchDialog" timestamp="1646067774586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="213" y="40" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1646067774586" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1646911925044">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1647548151430">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1646911925044" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1647548151430" />
     <state x="494" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646929646574">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -186,6 +211,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="390" y="145" width="585" height="478" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1645888660622" />
+    <state x="63" y="86" key="new project wizard" timestamp="1648575323727">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="63" y="86" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1648575323727" />
     <state x="355" y="154" width="672" height="677" key="run.anything.popup" timestamp="1646750987460">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

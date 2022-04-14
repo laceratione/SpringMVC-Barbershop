@@ -11,7 +11,7 @@
 <div id="feedback-form">
     <div>
             <sec:authorize access="!isAuthenticated()">
-                <h2 class="header">Welcome to barbershop</h2>
+                <h2 class="header">Welcome to Hairdress App</h2>
                 <form action="/login">
                     <button type="submit" id="button">Войти</button>
                 </form>

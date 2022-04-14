@@ -47,7 +47,6 @@ tbody {
 			background-color: rgba(255,255,255,0.3);
 		}
 	}
-
 }
 
 .button {
@@ -87,3 +86,10 @@ input {
   border-radius: 10px;
   padding: .75rem 1rem;
 }
+
+#prodReportTable
+ {
+     overflow-y:scroll;
+     height:200px;
+     position:absolute;
+ }
